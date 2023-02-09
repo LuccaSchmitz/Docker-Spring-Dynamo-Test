@@ -1,0 +1,42 @@
+[
+  {
+    "id": {
+      "S": "MODEL_BAND_STEERING"
+    },
+    "value": {
+      "S": "[\"CH8568\", \"TG3442\", \"FAST3895\", \"CG3000\" ]"
+    }
+  },
+  {
+    "id": {
+      "S": "FORCE_UPDATE_4k"
+    },
+    "value": {
+      "S": "true"
+    }
+  },
+  {
+    "id": {
+      "S": "SEGMENT_TYPE_VT"
+    },
+    "value": {
+      "S": "6"
+    }
+  },
+  {
+    "id": {
+      "S": "STATUS_SHOW_TIMELINE_VT"
+    },
+    "value": {
+      "S": "AGENDADA,CANCELADA,REALIZADA"
+    }
+  },
+  {
+    "id": {
+      "S": "OS_TO_SOLIC"
+    },
+    "value": {
+      "S": "{\"15\":15,\"21\":307,\"48\":71,\"50\":221,\"56\":201,\"61\":203,\"62\":204,\"82\":227}"
+    }
+  }
+]

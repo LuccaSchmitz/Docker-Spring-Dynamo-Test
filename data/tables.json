@@ -1,9 +1,9 @@
 [
   {
-    "TableName": "table1",
+    "TableName": "models",
     "AttributeDefinitions": [
       { "AttributeName": "id", "AttributeType": "S" },
-      { "AttributeName": "timestamp", "AttributeType": "N" }
+      { "AttributeName": "value", "AttributeType": "S" }
     ],
     "KeySchema": [
       {
@@ -11,7 +11,7 @@
         "KeyType": "HASH"
       },
       {
-        "AttributeName": "timestamp",
+        "AttributeName": "value",
         "KeyType": "RANGE"
       }
     ],
